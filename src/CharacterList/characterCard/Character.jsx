@@ -30,7 +30,7 @@ export default function CharacterCard(props){
                     <p>Race: {props.species} </p>
                 </div>
                 <div>
-                    <p className="text-muted">Last known locations:</p>
+                    <p className="muted">Last known locations:</p>
                     <p>{props.location.name}</p>
                 </div>
             </div>

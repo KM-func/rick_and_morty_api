@@ -10,7 +10,7 @@ export default function App() {
       </header>
       <CharacterContainer/>
       <div className="footer border-top border-secondary px-5 text-center">
-          <h3 className="text-muted mt-5">Created by Karl Mark Funcion</h3>
+          <h3 className="muted mt-5">Created by Karl Mark Funcion</h3>
       </div>
     </div>
   );
