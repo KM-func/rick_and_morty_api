@@ -1,3 +1,4 @@
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "./assets/stylesheets/style.scss";
 import CharacterContainer from "./CharacterList/CharacterList";
 
